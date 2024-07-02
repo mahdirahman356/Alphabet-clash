@@ -7,15 +7,15 @@
 
 ## Project Overview
 
-- **Concept:** This is a typing speed game where users improve their typing skills. Users are shown random letters, and they need to click on the correct letters to score points.
-- **Problem Solved:** It helps users practice and enhance their typing speed and accuracy in an engaging way.
+- **Concept:** Alphabet Clash is an interactive typing speed game designed to enhance users' typing skills. In this game, users are presented with random letters and must click on the correct letters as quickly as possible to earn points. The game challenges users to improve both their typing speed and accuracy through a fun and engaging format.
+- **Problem Solved:** This game addresses the need for effective typing practice by providing a dynamic and entertaining way to hone typing skills. It helps users become more proficient in typing, which can benefit various professional and personal tasks that require fast and accurate keyboarding.
 
 
 ## Features
 
-- **Major Feature 1:** Displaying random letters for users to click on.
-- **Major Feature 2:** Scoring system based on correct clicks.
-- **Major Feature 3:** Life system where incorrect clicks reduce lives, ending the game when lives reach zero.
+- **Random Letter Display:** The game shows random letters for users to click on, creating a challenging and varied experience.
+- **Scoring System:** Scoring System: Points are awarded based on correct letter clicks, encouraging users to improve their speed and accuracy.
+- **Life System:**  Users have a limited number of lives, which are reduced with incorrect clicks. The game ends when all lives are lost, adding a layer of excitement and urgency.
 
 
 ## Technologies Used
