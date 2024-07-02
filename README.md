@@ -21,3 +21,9 @@
 ## Technologies Used
 
 - **Frontend:**  HTML, CSS, JavaScript
+
+## Steps to Clone
+
+- **Clone the Repository:**  git clone [repository-url]
+- **Navigate to the Project Directory:**  cd [project-directory]
+
